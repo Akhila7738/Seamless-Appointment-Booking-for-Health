@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #c0cdcd;
+}
+
+header {
+  position: relative;
+  background-color: #c0cdcd;
+  padding: 20px;
+}
+
+header h1 {
+  color: #f1c40f;
+  margin: 0;
+  font-size: 24px;
+  display: inline-block;
+}
+
+.top-buttons {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.top-buttons button {
+  background-color: #f1c40f;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.hero {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.hero .doctor-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.content {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.content h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.content p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.book-btn {
+  background-color: #f1c40f;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+}Project Executable files
